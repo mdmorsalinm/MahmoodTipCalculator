@@ -17,5 +17,6 @@ public class Calculator {
             }
         }
         System.out.print(totalCost);
+        System.out.print(group);
     }
 }
